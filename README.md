@@ -4,9 +4,9 @@
 
 > Citation
 
-_Library of Congress Blogs, https://blogs.loc.gov_
+_Library of Congress Blogs, https://blogs.loc.gov._
 
-_New Glarus Brewing Co., www.NewGlarusBrewing.com_
+_New Glarus Brewing Co., www.NewGlarusBrewing.com._
 
 ### Cheers
 
