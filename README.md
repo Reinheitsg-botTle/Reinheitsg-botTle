@@ -1,4 +1,4 @@
-# Reinheitsgebot purity law of 1516..,
+# the Reinheitsgebot purity law of 1516..,
 
 ## *Happy 510 years of law on 250 years of America.*
 
