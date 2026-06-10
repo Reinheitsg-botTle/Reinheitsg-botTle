@@ -19,3 +19,9 @@ _New Glarus Brewing Co., www.NewGlarusBrewing.com._
 > Account (Mail) 7823303140 *_unit label_*
 
 > Account (Diverse Markets) 139105976939 *_unit label_*
+
+### AI Powered by Sofi Mohela
+
+*_©Electronicloud_* 
+
+*Not responsible for Zelle nor TDAmeritrade™ and Charles Schwab deals.
