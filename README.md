@@ -24,6 +24,11 @@ _New Glarus Brewing Co., www.NewGlarusBrewing.com._
 
 ### AI Powered by Sofi Mohela
 
+<img width="1983" height="793" alt="sponsor" src="https://github.com/user-attachments/assets/9c511fbb-f5a0-4155-96b8-c08ac1af20cc" />
+
 *_©Electronicloud_* 
 
 *Not responsible for Zelle nor TDAmeritrade™ and Charles Schwab deals.
+
+
+
