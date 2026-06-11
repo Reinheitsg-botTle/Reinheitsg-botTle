@@ -1,4 +1,4 @@
-# the Reinheitsgebot purity law from fifteen hundred sixteen onward..,
+# the Reinheitsgebot purity law from the year fifteen hundred sixteen onward..,
 
 <img width="1983" height="793" alt="ng" src="https://github.com/user-attachments/assets/66ecff23-73a5-409b-89b8-0fb5575249e7" />
 
