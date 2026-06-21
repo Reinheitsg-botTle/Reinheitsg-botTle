@@ -24,9 +24,8 @@ _New Glarus Brewing Co., www.NewGlarusBrewing.com._
 
 ### AI Powered by Sofi Mohela _Stadium Exclusion_
 
-*_©Electronicloud_* 
+*_°Oo©®°_* 
 
-*Not responsible for Zelle nor TDAmeritrade™ and Charles Schwab deals.
+<img width="398" height="45" alt="com edy" src="https://github.com/user-attachments/assets/acc67f07-1358-4de1-b3be-13c24977c4c7" />
 
-
-
+> bball_1181@hotmail.com is _not_ a monitored inbox.
