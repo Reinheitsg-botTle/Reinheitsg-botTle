@@ -6,11 +6,9 @@
 
 > Citation(s)
 
-_Library of Congress Blogs, https://blogs.loc.gov._
+1. _Library of Congress Blogs, https://blogs.loc.gov._
 
-_New Glarus Brewing Co., www.NewGlarusBrewing.com._
-
-## Madalon Law, KGonos@GanosLaw, Gruber Law Office(s), John Al Law
+2. _New Glarus Brewing Co., www.NewGlarusBrewing.com._
 
 > Account (Payer) 182376943664 *_unit label_*
 
