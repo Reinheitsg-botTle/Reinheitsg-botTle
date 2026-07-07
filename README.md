@@ -10,19 +10,17 @@
 
 2. _New Glarus Brewing Co., www.NewGlarusBrewing.com._
 
-> Account (Payer) 182376943664 *_unit label_*
+> Account (Payer) 182376943664 *_U.S. Bank_
 
-> Account (Recipient) 440926155 *_unit label_*
+> Account (Recipient) 440926155 _Flagstar Bank_
 
-> Account (Third-Party) 9153+ *_unit label_*
+> Account (Third-Party) 9153+ *_Anonymous_*
 
-> Account (Mail) 7823303140 *_unit label_*
+> Account (Mail) 7823303140 *_BMO Harris Bank_*
 
-> Account (Diverse Markets) 139105976939 *_unit label_*
+> Account (Diverse Markets) 139105976939 *_Bank of America_*
 
-### AI Powered by Sofi Mohela _Stadium Exclusion_
-
-*_°Oo©®°_* 
+> Account (Scale) 766139887968 *_The Bancorp Bank_*
 
 <img width="398" height="45" alt="com edy" src="https://github.com/user-attachments/assets/acc67f07-1358-4de1-b3be-13c24977c4c7" />
 
